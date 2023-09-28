@@ -22,8 +22,5 @@ public class SumEvenNumbers {
 
         System.out.println(sum);
 
-
-
-
     }
 }
